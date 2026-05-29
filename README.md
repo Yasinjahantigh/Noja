@@ -44,7 +44,7 @@
 
 ```bash
 # ۱. کلون کردن مخزن
-git clone [https://github.com/Yasinjahantigh/Noja.git](https://github.com/Yasinjahantigh/Noja.git)
+git clone https://github.com/Yasinjahantigh/Noja.git
 
 # ۲. ورود به دایرکتوری پروژه
 cd noja
